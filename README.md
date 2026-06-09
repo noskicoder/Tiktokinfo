@@ -40,16 +40,16 @@ pkg install python git -y
 pip install requests pyfiglet
 git clone https://github.com/noski/TikTokUserInfo.git
 cd TikTokUserInfo
-python noski_tiktok.py
+python noskitiktok.py
 ```
 
 Windows
 
 ```cmd
 pip install requests pyfiglet
-git clone https://github.com/noski/TikTokUserInfo.git
-cd TikTokUserInfo
-python noski_tiktok.py
+git clone https://github.com/noski/TikTokinfo.git
+cd Tiktokinfo
+python noskitiktokinfo.py
 ```
 
 ---

@@ -47,7 +47,7 @@ Windows
 
 ```cmd
 pip install requests pyfiglet
-git clone https://github.com/noski/TikTokinfo.git
+git clone https://github.com/noski/Tiktokinfo.git
 cd Tiktokinfo
 python noskitiktokinfo.py
 ```

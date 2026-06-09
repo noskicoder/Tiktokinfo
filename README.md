@@ -38,7 +38,7 @@ Bu araç, **Termux**, **Linux**, **Windows** ve tüm ana terminal ortamlarıyla 
 pkg update && pkg upgrade -y
 pkg install python git -y
 pip install requests pyfiglet
-git clone https://github.com/noski/Tiktokinfo.git
+git clone https://github.com/noskicoder/Tiktokinfo.git
 cd Tiktokinfo
 python noskitiktokinfo.py
 ```
@@ -47,7 +47,7 @@ Windows
 
 ```cmd
 pip install requests pyfiglet
-git clone https://github.com/noski/Tiktokinfo.git
+git clone https://github.com/noskicoder/Tiktokinfo.git
 cd Tiktokinfo
 python noskitiktokinfo.py
 ```
